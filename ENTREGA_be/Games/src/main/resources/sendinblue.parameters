@@ -1,0 +1,13 @@
+{
+"endpoint" : "https://api.sendinblue.com/v3/smtp/email",
+"headers" : [
+"accept : application/json",
+"api-key : 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  ",
+"content-type : application/json"
+],
+"sender" : {
+"name" : "Number Match.",
+"email" : "juegos@juegos.com"
+},
+"subject" : "Confirmacion de cuenta"
+}
